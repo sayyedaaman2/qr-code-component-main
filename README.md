@@ -9,10 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](About css)
-  - [Continued development](#continued-development)
-  - [Useful resources](Google Fonts)
-- [Author](Sayyed Aaman)
+  - [What I learned](#What I learned)
+- [Author]( #Author)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
